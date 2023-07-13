@@ -6,4 +6,4 @@
 ``` iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/Salad360/monitor-info.ps1/main/monitor-info.ps1'))```
 
 
-
+###### I did not write this, putting it here so it is accessible
